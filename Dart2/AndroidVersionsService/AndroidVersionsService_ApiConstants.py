@@ -1,0 +1,2 @@
+ANDROID_VERSIONS_SERVICE_API_BASE_URL = "https://api.learn2crack.com/"
+apiEndpoint = ANDROID_VERSIONS_SERVICE_API_BASE_URL
